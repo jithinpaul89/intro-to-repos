@@ -11,6 +11,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC change 2
+
+# COMMAND ----------
+
 from my_lib.my_funcs import *
 
 # COMMAND ----------
