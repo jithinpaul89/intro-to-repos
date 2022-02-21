@@ -6,6 +6,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC my change entry
+
+# COMMAND ----------
+
 from my_lib.my_funcs import *
 
 # COMMAND ----------
@@ -23,7 +28,11 @@ from my_lib.my_funcs import *
 
 # COMMAND ----------
 
-# MAGIC %run ./my_lib/my_funcs
+# MAGIC %run /Workspace/Repos/jithin.paul@databricks.com/intro-to-repos/my_lib/my_funcs.py
+
+# COMMAND ----------
+
+# MAGIC %run ./my_lib/my_funcs.py
 
 # COMMAND ----------
 
