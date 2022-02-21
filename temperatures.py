@@ -16,6 +16,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC Chnage 2A
+
+# COMMAND ----------
+
 from my_lib.my_funcs import *
 
 # COMMAND ----------
